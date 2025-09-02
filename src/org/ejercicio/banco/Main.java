@@ -10,6 +10,10 @@ public class Main {
        Cliente cliente2 = new Cliente("David ku", 29872946);
        CuentaBancaria cuenta2 = new CuentaBancaria(61531,cliente1,1000);
 
+       Cliente cliente3 = new Cliente("David Pech", 29892946);
+       CuentaBancaria cuenta3 = new CuentaBancaria(63431,cliente1,10300);
+
+
 
     }
 }
